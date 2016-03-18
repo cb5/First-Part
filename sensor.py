@@ -2,5 +2,5 @@
 
 
 
-def sensor():
+class sensor(object):
     pass
